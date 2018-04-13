@@ -1,6 +1,6 @@
-# React/Redux Express Starter Pack
+# Dashboard for QA
 
-> Create full stack apps with React/Redux and Express. Run your client and server with a single command
+> Dashboard for QA Automation metrics
 
 ## Quick Start
 
